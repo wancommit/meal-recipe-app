@@ -18,6 +18,11 @@ const recipeSchema = new mongoose.Schema({
         type: Number,
         required: true
     },
+     servings: {          
+        type: Number,
+        required: true,
+        min: 1
+  },
     description: String,
     ingredients: {
         type:String,
@@ -32,3 +37,5 @@ const recipeSchema = new mongoose.Schema({
         timestamps: true // Adds createdAt, updatedAt automatically
 
 })
+
+module.exports = mongoose.model('Recipe', recipeSchema)
