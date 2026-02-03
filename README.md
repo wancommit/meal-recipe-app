@@ -1,4 +1,4 @@
-# 🍳 Meal Recipe App
+# Meal Recipe App
 
 A full-stack recipe randomizer to help you decide what to cook! Filter by meal type, country, or cooking time, and get random recipe suggestions. 
 Inspired by my sister who likes to try out new and exciting meals across the globe. I decided, why not make one for her so she has the variety all in one place? And guess what, 
@@ -9,17 +9,19 @@ I get to learn full stack development by doing so. WIN - WIN
 **Frontend:** React, Vite, Tailwind *(coming soon)*
 
 
-## 📸 Screenshots
+## Screenshots
 *(Coming soon - will add once frontend is built)*
 
 ## Current Status
 - [x] Figma design
 - [x] Backend API with filtering  
-- [ ] Database seeding  
-- [ ] Frontend
+- [x] Database seeding  
+- [x] Frontend setup
+- [ ] Figma design implementation
+- [ ] Testing
 - [ ] Deployment 
 
-## 🚀 Running Locally
+## Running Locally
 
 ### Prerequisites
 - Node.js installed
@@ -40,7 +42,7 @@ GET  /api/recipes/:id          - Get recipe by ID
 ```
 
 ---
-## 🎯 Learning Goals
+## Learning Goals
 
 - Understanding full-stack architecture
 - Building RESTful APIs from scratch
