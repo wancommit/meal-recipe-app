@@ -9,7 +9,10 @@ I get to learn full stack development by doing so. WIN - WIN
 **Frontend:** React, Vite, Tailwind *(coming soon)*
 
 
-## Screenshots
+## Figma Screenshots
+<img width="800" height="604" alt="Screenshot 2026-02-06 at 1 10 58 PM" src="https://github.com/user-attachments/assets/8dfb02c0-7773-4bf1-89ba-f0688117762d" />
+
+## Build Screenshots
 *(Coming soon - will add once frontend is built)*
 
 ## Current Status
