@@ -13,14 +13,14 @@ function LandingPage() {
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-4 sm:mb-6 px-4" 
           style={{ color: '#2C3E50' }}
         >
-          Finally, a meal recipe
+          Your passport to 
           <br />
-          app that delivers.
+      easy flavors
         </h1>
         
         {/* Subheading */}
         <p className="text-lg sm:text-xl md:text-xl text-gray-600 mb-8 sm:mb-10 max-w-3xl mx-auto leading-relaxed px-4">
-          Discover authentic recipes from every corner of the world.
+          From street food to comfort bowls, discover simple global eats you can whip up with joy — no passport required.
         </p>
         
         {/* CTA Button */}
@@ -32,7 +32,7 @@ function LandingPage() {
             color: '#2C3E50'
           }}
         >
-          Discover now!
+          Cook with us!
         </Link>
       </div>
 
